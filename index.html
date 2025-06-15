@@ -8,10 +8,16 @@
 </head>
 <body>
     <!-- Title -->
-     <h1>Club Guest List</h1>
+     <h1> Guest List</h1>
      <!-- form for adding a new post -->
       <form id="guest-form">
         <input id="guest-name" type="text" placeholder="Enter guest's name" required>
+        <select id="guest-category">
+             <option value="">Select category</option>
+             <option value="Friend">Friend</option>
+             <option value="Family">Family</option>
+             <option value="Colleague">Colleague</option>
+        </select>
         <button id="add-guest"> Add Guest</button>
       </form>
       <!-- list to show the guests -->

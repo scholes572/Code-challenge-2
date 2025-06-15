@@ -17,13 +17,34 @@ li {
     background: #f0edf5;
     position: relative;
     border-radius: 10px;
+    border: 1px solid #ccc
 }
 .attending {
     background: #dff0d8 ;
 }
 .not-attending {
-    margin-left: #f2dede;
+    background: #f2dede;
+    color:#a94442;
+
 }
 button {
     margin-left: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background: #fff;
+    cursor: pointer;
+    box-shadow: 0px 1px 3px #0000003d;
+}
+
+.Friend {
+    border-left: 5px solid #4caf50;
+}
+
+.Family {
+    border-left: 5px solid #ff9800;
+}
+
+.Colleague {
+    border-left: 5px solid #2196f3;
 }
