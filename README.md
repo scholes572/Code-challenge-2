@@ -1,51 +1,57 @@
 # Code-challenge-2
-🔹 Club Guest List 🔹
-This is a simple and functional Guest List Manager for your event or party!
-It lets you:
+🎉 Club Guest List
 
-✅ Add new guests with their names and categories (Friend, Family, or Colleague)
-✅ Mark attendance (Attending or Not Attending)
-✅ Edit guest details (such as their name)
-✅ Remove guests from the list
-✅ Search for a guest by their name
-✅ View the timestamp when each guest was added
---------------------------------------------------------------------------
-🔹 Features 🔹
-Add a guest with their name and a color tag to identify their relation
+A tool for adding, removing, and managing your event’s guest list with ease.
 
-Edit the guest’s name directly
+Concepts practiced:
 
-Remove a guest from the list
+JavaScript fundamentals
 
-Mark their attendance
+User input with forms
 
-Search for a guest by their name
+DOM manipulation
 
-Displays the timestamp when each guest was added
+Local state management
 
-Stores data in RAM (until you refresh the page)
----------------------------------------------------------------------
-🔹 Technologies used 🔹
-HTML for structure
+Real-world problem-solving
 
-CSS for styling
+🛠 How to Use
+Clone or download the repository.
 
-Vanilla JavaScript for functionality
-
-No external libraries or frameworks — pure HTML, CSS, and JavaScript.
----------------------------------------------------------------------
-🔹 How to use 🔹
 Open index.html in your browser.
 
-Type in a guest’s name in the input field.
+Fill in the form with a guest’s name and select their category (Friend, Family, or Colleague).
 
-Select their category (Friend, Family, or Colleague).
+Click Add Guest to add them to your list.
 
-Click Add Guest.
+Use Edit to modify their name, Remove to delete, or Toggle Attendance to track their attendance.
 
-Repeat until you’re finished adding your guests.
+Search for a guest by their name in the search box.
 
-Search for a guest by their name if needed.
+🧠 Skills Practiced
+JavaScript fundamentals
 
-Remove or edit them with respective controls.
+User input with forms
+
+Conditional statements
+
+Looping through and rendering data
+
+Real-world problem-solving with code
+
+👤 Author
+Created by [Agostino Scholes Omare]
+If you'd like to connect, check out more of my work on GitHub.
+
+📜 License
+This project is licensed under the MIT License.
+You are free to use, copy, modify, merge, publish, and distribute the code with attribution.
+See the LICENSE file for full details.
+
+🙌 Acknowledgments
+This project was created as a way to practice coding fundamentals.
+
+Inspired by everyday problems that can be solved with simple code.
+
+Special thanks to the online coding community for their support and guidance.
 
