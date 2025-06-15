@@ -71,4 +71,4 @@ This project was created as a way to practice coding fundamentals.
 Inspired by everyday problems that can be solved with simple code.
 
 Special thanks to the online coding community for their support and guidance.
-
+------------------------------------------
