@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+    background-color: azure;
+}
+h1{
+    color: #5D104C;
+}
+ul {
+    
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    padding: 10px;
+    margin-bottom: 5px;
+    background: #f0edf5;
+    position: relative;
+    border-radius: 10px;
+}
+.attending {
+    background: #dff0d8 ;
+}
+.not-attending {
+    margin-left: #f2dede;
+}
+button {
+    margin-left: 10px;
+}
