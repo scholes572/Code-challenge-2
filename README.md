@@ -64,7 +64,8 @@ This project is licensed under the MIT License.
 You are free to use, copy, modify, merge, publish, and distribute the code with attribution.
 See the LICENSE file for full details.
 -----------------------------------------------------------------
-🙌 Acknowledgments---------------------------
+🙌 Acknowledgments
+-----------------------------------------------------
 This project was created as a way to practice coding fundamentals.
 
 Inspired by everyday problems that can be solved with simple code.
